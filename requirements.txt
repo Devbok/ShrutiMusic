@@ -1,4 +1,4 @@
-pyrofork
+Pyrofork
 gTTS
 aiofiles
 aiohttp
@@ -14,11 +14,11 @@ motor
 numpy
 opencv-python
 pytz
-pillow==9.5.0
+pillow
 psutil
-py-tgcalls==0.9.7
+py-tgcalls
 pykeyboard
-kurigram==2.1.35
+kurigram
 python-dotenv
 pyyaml
 requests
@@ -31,9 +31,3 @@ youtube-search
 youtube-search-python
 py-yt-search
 yt-dlp
-# ===========================================
-# ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
-# ===========================================
-
